@@ -1,0 +1,47 @@
+Circuit: * C:\Users\austi\Downloads\JAD_ABED_2.asc
+
+Laplace(B5): Window=1.6006405ms Nfft=1024
+WARNING: Less than two connections to node +V.  This node is used by V1.
+WARNING: Less than two connections to node -V.  This node is used by V2.
+WARNING: Less than two connections to node D[X].  This node is used by B2.
+WARNING: Less than two connections to node D[OUT].  This node is used by B3.
+WARNING: Less than two connections to node D[CHECK].  This node is used by B4.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+Gmin = 1.89714e-008
+Gmin = 2.03704e-009
+Gmin = 2.18725e-010
+Gmin = 2.34854e-011
+Gmin = 2.52173e-012
+Gmin = 2.70769e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+
+Date: Fri May 01 10:46:07 2020
+Total elapsed time: 0.276 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 16521
+traniter = 16163
+tranpoints = 3834
+accept = 2883
+rejected = 951
+matrix size = 40
+fillins = 40
+solver = Normal
+Thread vector: 8.7/6.9[3] 2.0/2.1[1] 1.9/2.7[1] 0.1/1.8[1]  2592/500
+Matrix Compiler1: 3.61 KB object code size  0.8/0.4/[0.2]
+Matrix Compiler2: 4.02 KB object code size  0.6/0.8/[0.3]
+
